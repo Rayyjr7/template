@@ -1,0 +1,3 @@
+ecsc2026ad>=0.2.3
+pwntools>=4.15.0
+requests>=2.32.0
